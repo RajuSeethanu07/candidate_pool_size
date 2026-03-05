@@ -1,0 +1,234 @@
+{
+    "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "ML Engineer",
+        "location": "Hyderabad",
+        "skills": [
+            "Python"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 2470,
+        "timestamp": "2026-03-04 17:31:05"
+    },
+    "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "ML Engineer",
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "FastAPI"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 286,
+        "timestamp": "2026-03-04 17:31:07"
+    },
+    "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "ML Engineer",
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Langchain"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 249,
+        "timestamp": "2026-03-04 17:31:08"
+    },
+    "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"Transformers\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "ML Engineer",
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Langchain",
+            "Transformers"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"Transformers\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 118,
+        "timestamp": "2026-03-04 17:31:08"
+    },
+    "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"Transformers\" \"GCP\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "ML Engineer",
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Langchain",
+            "Transformers",
+            "GCP"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"Transformers\" \"GCP\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 95,
+        "timestamp": "2026-03-04 17:31:09"
+    },
+    "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"Transformers\" \"GCP\" \"AWS\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "ML Engineer",
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "Langchain",
+            "Transformers",
+            "GCP",
+            "AWS"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"ML Engineer\" \"Hyderabad\" \"Python\" \"FastAPI\" \"Langchain\" \"Transformers\" \"GCP\" \"AWS\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 25,
+        "timestamp": "2026-03-04 17:31:11"
+    },
+    "site:linkedin.com/in/ \"Java Developer\" \"Mumbai\" \"Java\" (\"3 years\" OR \"4 years\" OR \"5 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Java Developer",
+        "location": "Mumbai",
+        "skills": [
+            "Java"
+        ],
+        "experience_range": "3-5 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Java Developer\" \"Mumbai\" \"Java\" (\"3 years\" OR \"4 years\" OR \"5 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 28000,
+        "timestamp": "2026-03-04 17:36:34"
+    },
+    "site:linkedin.com/in/ \"Java Developer\" \"Mumbai\" \"Java\" \"Spring Boot\" (\"3 years\" OR \"4 years\" OR \"5 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Java Developer",
+        "location": "Mumbai",
+        "skills": [
+            "Java",
+            "Spring Boot"
+        ],
+        "experience_range": "3-5 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Java Developer\" \"Mumbai\" \"Java\" \"Spring Boot\" (\"3 years\" OR \"4 years\" OR \"5 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 15200,
+        "timestamp": "2026-03-04 17:36:36"
+    },
+    "site:linkedin.com/in/ \"Java Developer\" \"Mumbai\" \"Java\" \"Spring Boot\" \"Hibernate\" (\"3 years\" OR \"4 years\" OR \"5 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Java Developer",
+        "location": "Mumbai",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Hibernate"
+        ],
+        "experience_range": "3-5 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Java Developer\" \"Mumbai\" \"Java\" \"Spring Boot\" \"Hibernate\" (\"3 years\" OR \"4 years\" OR \"5 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 8810,
+        "timestamp": "2026-03-04 17:36:39"
+    },
+    "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Python Developer",
+        "location": "Bangalore",
+        "skills": [
+            "Python"
+        ],
+        "experience_range": "0-2 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 3780,
+        "timestamp": "2026-03-04 17:42:12"
+    },
+    "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" \"Django\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Python Developer",
+        "location": "Bangalore",
+        "skills": [
+            "Python",
+            "Django"
+        ],
+        "experience_range": "0-2 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" \"Django\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 1050,
+        "timestamp": "2026-03-04 17:42:14"
+    },
+    "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" \"Django\" \"FastAPI\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Python Developer",
+        "location": "Bangalore",
+        "skills": [
+            "Python",
+            "Django",
+            "FastAPI"
+        ],
+        "experience_range": "0-2 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" \"Django\" \"FastAPI\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 245,
+        "timestamp": "2026-03-04 17:42:17"
+    },
+    "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" \"Django\" \"FastAPI\" \"MySQL\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs": {
+        "title": "Python Developer",
+        "location": "Bangalore",
+        "skills": [
+            "Python",
+            "Django",
+            "FastAPI",
+            "MySQL"
+        ],
+        "experience_range": "0-2 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"Python Developer\" \"Bangalore\" \"Python\" \"Django\" \"FastAPI\" \"MySQL\" (\"0 years\" OR \"1 years\" OR \"2 years\") -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 106,
+        "timestamp": "2026-03-04 17:42:20"
+    },
+    "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "DevOps Engineer",
+        "location": "Mumbai",
+        "skills": [
+            "AWS"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 8140,
+        "timestamp": "2026-03-04 17:47:45"
+    },
+    "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "DevOps Engineer",
+        "location": "Mumbai",
+        "skills": [
+            "AWS",
+            "Azure"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 6040,
+        "timestamp": "2026-03-04 17:47:50"
+    },
+    "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"Docker\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "DevOps Engineer",
+        "location": "Mumbai",
+        "skills": [
+            "AWS",
+            "Azure",
+            "Docker"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"Docker\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 4520,
+        "timestamp": "2026-03-04 17:47:55"
+    },
+    "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"Docker\" \"Kubernetes\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "DevOps Engineer",
+        "location": "Mumbai",
+        "skills": [
+            "AWS",
+            "Azure",
+            "Docker",
+            "Kubernetes"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"Docker\" \"Kubernetes\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 4260,
+        "timestamp": "2026-03-04 17:48:02"
+    },
+    "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"Docker\" \"Kubernetes\" \"Jenkins\" \"4 years\" -intitle:jobs -inurl:jobs": {
+        "title": "DevOps Engineer",
+        "location": "Mumbai",
+        "skills": [
+            "AWS",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Jenkins"
+        ],
+        "experience_range": "4 years",
+        "optimized_query_used": "site:linkedin.com/in/ \"DevOps Engineer\" \"Mumbai\" \"AWS\" \"Azure\" \"Docker\" \"Kubernetes\" \"Jenkins\" \"4 years\" -intitle:jobs -inurl:jobs",
+        "google_estimated_pool_size": 3310,
+        "timestamp": "2026-03-04 17:48:06"
+    }
+}
